@@ -1,0 +1,78 @@
+Vancouver-Calgary | Single | Any | 3
+Vancouver-Seattle | Double | L - Any | R - Any | 1
+Seattle-Calgary | Single | Any | 4
+Seattle-Portland | Double | L - Any | R - Any | 1
+Portland-San Francisco | Double | L - Green | R - Pink | 5
+Portland-Salt Lake City | Single | Blue | 6
+Seattle-Helena | Single | Yellow | 6
+Calgary-Helena | Single | Any | 4
+Calgary-Winnipeg | Single | White | 6
+Winnipeg-Helena | Single | Blue | 4
+Helena-Salt Lake City | Single | Pink | 3
+San Francisco-Salt Lake City | Double | L - Orange | R - White | 5
+Salt Lake City-Las Vegas | Single | Orange | 3
+Las Vegas-Los Angeles | Single | Any | 2
+San Francisco-Los Angeles | Double | L - Yellow | R - Pink | 3
+Los Angeles-Phoenix | Single | Any | 3 
+Los Angeles-El Paso | Single | Black | 6
+Phoenix-El Paso | Single | Any | 3
+Phoenix-Santa Fe | Single | Any | 3
+Phoenix-Denver | Single | White | 5
+Denver-Santa Fe | Single | Any | 2
+Santa Fe-El Paso | Single | Any | 2
+Salt Lake City-Denver | Double | L - Red | R - Yellow | 3
+Helena-Denver | Single | Green | 4
+Helena-Duluth | Single | Orange | 6
+Winnipeg-Duluth | Single | Black | 4
+Helena-Omaha | Single | Red | 5
+Denver-Omaha | Single | Pink | 4
+Winnipeg-Sault St. Marie | Single | Any | 6
+Duluth-Sault St. Marie | Single | Any | 3
+Santa Fe-Oklahoma City | Single | Blue | 3
+Denver-Oklahoma City | Single | Red | 4
+El Paso-Dallas | Single | Red | 4
+El Paso-Oklahoma City | Single | Yellow | 5
+El Paso-Houston | Single | Green | 6
+Denver-Kansas City | Double | L - Black | R - Orange | 4
+Duluth-Omaha | Double | L - Any | R - Any | 2
+Omaha-Kansas City | Double | L - Any | R - Any | 1
+Kansas City-Oklahoma City | Double | L - Any | R - Any | 2
+Dallas-Oklahoma City | Double | L - Any | R - Any | 2
+Dallas-Houston | Double | L - Any | R - Any | 1
+Kansas City-Saint Louis | Double | L - Blue | R - Pink | 2
+Atlanta-Raleigh | Double | L - Any | R - Any | 2
+Raleigh-Washington | Double | L - Any | R - Any | 2
+New York-Washington | Double | L - Orange | R - Black | 2
+New York-Boston | Double | L - Yellow | R - Red | 2
+Montreal-Boston | Double | L - Any | R - Any | 2
+New York-Pittsburgh | Double | L - White | R - Green | 2
+Duluth-Toronto | Single | Pink | 6
+Sault St. Marie-Montreal | Single | Black | 5
+Montreal-New York | Single | Blue | 3
+Montreal-Toronto | Single | Any | 3
+Sault St. Marie-Toronto | Single | Any | 2
+Toronto-Pittsburgh | Single | Any | 2
+Duluth-Chicago | Single | Red | 3
+Toronto-Chicago | Single | White | 4
+Omaha-Chicago | Single | Blue | 4
+Saint Louis-Chicago | Double | L - Green | R - White | 2
+Oklahoma City-Little Rock | Single | Any | 2
+Little Rock-Nashville | Single | White | 3
+Saint Louis-Pittsburgh | Single | Green | 5
+Nashville-Raleigh | Single | Black | 3
+Nashville-Pittsburgh | Single | Yellow | 4
+Little Rock-Saint Louis | Single | Any | 2
+Little Rock-Dallas | Single | Any | 2
+Houston-New Orleans | Single | Any | 2
+Little Rock-New Orleans | Single | Green | 3
+Saint Louis-Nashville | Single | Any | 2
+Nashville-Atlanta | Single | Any | 1
+New Orleans-Atlanta | Double | L - Yellow | R - Orange | 4
+New Orleans-Miami | Single | Red | 6
+Atlanta-Miami | Single | Blue | 5
+Charleston-Miami | Single | Pink | 4
+Atlanta-Charleston | Single | Any | 2
+Raleigh-Charleston | Single | Any | 2
+Pittsburgh-Raleigh | Single | Any | 2
+Pittsburgh-Washington | Single | Any | 2
+Chicago-Pittsburgh | Double | L - Orange | R - Black | 3
